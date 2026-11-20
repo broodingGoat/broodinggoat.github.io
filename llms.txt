@@ -1,0 +1,57 @@
+# Sushaant Mujoo
+
+> Senior Manager, Technical Program Management — Data Governance & Privacy Infrastructure at Meta. 20+ years in tech, 10 as a manager, across infrastructure, analytics, and privacy & security.
+
+## About
+
+- [About](https://sushaantmujoo.com/): career in three stints — infrastructure (IBM web middleware; Amgen OneCloud and Kubernetes), analytics (sales, marketing, and health analytics at Amgen), and privacy & security (Meta since 2018 — data understanding, lineage, purpose limitation, model training compliance, agentic safeguards).
+- Hands-on as both an engineering manager and a TPM.
+- Hired 150+ people over the years (100+ in a single site build-out); built teams of 20–30 people in different setups and improved their overall performance.
+- Beyond work: strong believer in mindfulness and digital detox; Vipassana meditator, active practice — welcomes outreach on meditation and mindfulness; follows politics and society; avid cook, especially Kashmiri food.
+- [Resume (PDF)](https://sushaantmujoo.com/resume.pdf): full resume. Web version has contact details removed.
+- [LinkedIn](https://www.linkedin.com/in/sushaantmujoo)
+- [GitHub](https://github.com/broodingGoat)
+- [Medium](https://sushaantmujoo.medium.com/)
+
+## Writing
+
+### Meta Engineering Blog
+
+Posts describing the work he has done in the space of Privacy Aware Infrastructure — he contributed to these problem areas and to the publishing of the blog posts themselves.
+
+- [PrivacyLib: Privacy Controls at the Data Access Boundary](https://engineering.fb.com/2026/10/27/security/privacylib/) (2026)
+- [Scaling Privacy Infrastructure for GenAI Product Innovation](https://engineering.fb.com/2025/10/23/security/scaling-privacy-infrastructure-for-genai-product-innovation/) (2025)
+- [How Meta understands data at scale](https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/) (2025)
+- [How Meta discovers data flows via lineage at scale](https://engineering.fb.com/2025/01/22/security/how-meta-discovers-data-flows-via-lineage-at-scale/) (2025)
+- [How Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/) (2024)
+
+### Tech & Society
+
+- [Experimenting with AI Code Assistants](https://www.linkedin.com/pulse/experimenting-ai-code-assistants-sushaant-mujoo-cwjoc/) (LinkedIn, Jan 2025)
+- [Balancing Statistical Value with Privacy](https://www.linkedin.com/pulse/balancing-statistical-value-privacy-sushaant-mujoo/) (LinkedIn, Jan 2020)
+- [Authentication & authorization in voice driven conversational applications](https://sushaantmujoo.medium.com/authentication-authorization-in-voice-driven-conversational-applications-77720550cda9) (Medium, Feb 2017; also on [LinkedIn](https://www.linkedin.com/pulse/authentication-authorization-voice-driven-sushaant-mujoo/))
+- [Rethinking identity & user experience in Messaging](https://www.linkedin.com/pulse/rethinking-identity-user-experience-messaging-sushaant-mujoo/) (LinkedIn, Jun 2016)
+- [Chat Bots & Apps — An instant utility based approach](https://www.linkedin.com/pulse/chat-bots-apps-instant-utility-based-approach-sushaant-mujoo/) (LinkedIn, Jun 2016)
+- [vagrant-ed](https://www.linkedin.com/pulse/20141108005318-11860799-vagrant-ed/) (LinkedIn, Nov 2014)
+
+- [Cycle of trading Liberty](https://sushaantmujoo.medium.com/cycle-of-trading-liberty-d1646d9cc8f0) (Medium, Apr 2024)
+- [Boy who was killed at age of 12](https://sushaantmujoo.medium.com/boy-who-was-killed-at-age-of-12-4942453f59aa) (Medium, Nov 2020)
+- [Tamil Cuisine, Rice & Marathas](https://sushaantmujoo.medium.com/tamil-cuisine-rice-marathas-e2dc2abc8fc6) (Medium, Sep 2016)
+
+### Politics
+
+- [When Hedda ran into Spartacus](https://sushaantmujoo.medium.com/when-hedda-ran-into-spartacus-e6b02ca0c0b0) (Medium, Apr 2021)
+- [गोदी मीडिया का रेगिस्तान (Godi Media's Desert)](https://sushaantmujoo.medium.com/%E0%A4%97%E0%A5%8B%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8-5e8067917186) (Medium, Jan 2021)
+- [श्री रामजी की प्रतिक्षा में (While we wait for Shri Ram)](https://sushaantmujoo.medium.com/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%9C%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%AE%E0%A5%87%E0%A4%82-640ae631ea0) (Medium, Jun 2020)
+
+### Career
+
+- [Differentiating between stages of skill development](https://sushaantmujoo.medium.com/differentiating-between-stages-of-skill-development-4d40b3e8b7bf) (Medium, Feb 2024)
+
+### Mindfulness
+
+- [7 Practical tips for Vipaasna course](https://sushaantmujoo.medium.com/practical-tips-for-vipaasna-course-5a965760a118) (Medium, Sep 2023)
+
+### Life
+
+- [King, his Castle & Band of Fellow Travelers](https://sushaantmujoo.medium.com/king-his-castle-band-of-fellow-travelers-d3f832ffdbe6) (Medium, Jan 2022)

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<details open>
+  <summary><span class="prompt">$</span> <span class="cmd">cat about.txt</span></summary>
+  {% assign about = site.sections | where: "group", "about" | first %}
+  {{ about.content }}
+</details>
+
+<details open>
+  <summary><span class="prompt">$</span> <span class="cmd">ls writing/</span></summary>
+  {% assign groups = site.sections | where: "group", "writing" | sort: "order" %}
+  {% for g in groups %}
+  <details>
+    <summary>{{ g.path }}</summary>
+    {{ g.content }}
+  </details>
+  {% endfor %}
+</details>
