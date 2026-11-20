@@ -1,6 +1,6 @@
 ---
 group: writing
-path: "~/mindfulness"
+label: "mindfulness.md"
 order: 5
 ---
 

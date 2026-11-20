@@ -1,6 +1,6 @@
 ---
 group: writing
-path: "~/meta-engineering-blogs"
+label: "meta-engineering-blogs.md"
 order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 group: writing
-path: "~/politics"
+label: "politics.md"
 order: 3
 ---
 

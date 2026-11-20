@@ -1,6 +1,6 @@
 ---
 group: writing
-path: "~/tech-society"
+label: "tech-society.md"
 order: 2
 ---
 

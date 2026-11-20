@@ -1,6 +1,6 @@
 ---
 group: writing
-path: "~/career"
+label: "career.md"
 order: 4
 ---
 

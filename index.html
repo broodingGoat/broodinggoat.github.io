@@ -13,7 +13,7 @@ layout: default
   {% assign groups = site.sections | where: "group", "writing" | sort: "order" %}
   {% for g in groups %}
   <details>
-    <summary>{{ g.path }}</summary>
+    <summary>{{ g.label }}</summary>
     {{ g.content }}
   </details>
   {% endfor %}

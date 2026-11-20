@@ -1,6 +1,6 @@
 ---
 group: writing
-path: "~/life"
+label: "life.md"
 order: 6
 ---
 
